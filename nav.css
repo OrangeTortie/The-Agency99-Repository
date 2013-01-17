@@ -1,0 +1,39 @@
+.sprite {
+    background:url(images/spritesheet.png) no-repeat;
+}
+
+.sprite-home-png {
+    width: 180px;
+    height: 38px;
+    background-position: -263px -208px;
+}
+
+.sprite-locations-png {
+    width: 180px;
+    height: 41px;
+    background-position: -263px -156px;
+}
+
+.sprite-mission-png {
+    width: 180px;
+    height: 41px;
+    background-position: -263px -104px;
+}
+
+.sprite-navbar-png {
+    width: 252px;
+    height: 359px;
+    background-position: -0px -0px;
+}
+
+.sprite-training-png {
+    width: 180px;
+    height: 41px;
+    background-position: -263px -52px;
+}
+
+.sprite-vehicles-png {
+    width: 180px;
+    height: 41px;
+    background-position: -263px -0px;
+}
